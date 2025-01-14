@@ -376,7 +376,7 @@
 					<artifactId>commons-io</artifactId>
 				</exclusion>
 				<exclusion>
-					<groupId>commons-compress</groupId>
+					<groupId>org.apache.commons</groupId>
 					<artifactId>commons-compress</artifactId>
 				</exclusion>
 			</exclusions>
