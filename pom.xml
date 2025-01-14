@@ -10,7 +10,7 @@
 	<properties>
 		<spring.version>6.1.14</spring.version>
 		<java.version>17</java.version>
-		<spring-security.version>6.3.5</spring-security.version>
+		<spring-security.version>6.2.3</spring-security.version>
 		<slf4j.version>1.6.4</slf4j.version>
 		<logback.version>1.5.13</logback.version>
 		<cxf.version>4.0.5</cxf.version>
