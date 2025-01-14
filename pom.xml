@@ -10,7 +10,7 @@
 	<properties>
 		<spring.version>6.1.14</spring.version>
 		<java.version>17</java.version>
-		<spring-security.version>6.3.4</spring-security.version>
+		<spring-security.version>6.3.5</spring-security.version>
 		<slf4j.version>1.6.4</slf4j.version>
 		<logback.version>1.4.14</logback.version>
 		<cxf.version>4.0.5</cxf.version>
@@ -374,6 +374,10 @@
 				<exclusion>
 					<groupId>commons-io</groupId>
 					<artifactId>commons-io</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>commons-compress</groupId>
+					<artifactId>commons-compress</artifactId>
 				</exclusion>
 			</exclusions>
 		</dependency>
